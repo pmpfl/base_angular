@@ -1,0 +1,6 @@
+bower@1.4.1
+generator-angular@0.12.1
+generator-karma@1.0.0
+grunt-cli@0.1.13
+gulp@3.9.0
+yo@1.4.7
